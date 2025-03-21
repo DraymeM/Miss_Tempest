@@ -6,7 +6,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="React Logo" width="100" height="100" />
     </td>
         <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Php_logo.svg/1200px-Php_logo.svg.png" alt="React Logo" width="100" height="100" />
+      <img src="https://media.licdn.com/dms/image/v2/D4D0BAQED3NyjmcLYFw/company-logo_200_200/company-logo_200_200/0/1680507150858/phpnet_logo?e=2147483647&v=beta&t=39VmxMpksgJnn0n1w4xp7y7Tt-HYJK3PPwa6A4lgiWw" alt="React Logo" width="100" height="100" />
     </td>
 
   </tr>
